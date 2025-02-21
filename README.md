@@ -3,3 +3,4 @@
 - para ejecutar el sistema debes: 
 
 ```npm install now```
+Sistema de registro 2
